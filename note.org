@@ -1,0 +1,7 @@
+* P0: Analyze Chopstick Length
+  Lesson 1 of elementary statistics
+** Intro to Research Method
+*** Believe Results (valid research)
+**** A good sample size
+**** A representative sample
+**** A sound methodology
